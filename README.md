@@ -1,5 +1,7 @@
 # Chop — Releases
 
+Website: https://chop.asia
+
 Downloads for **Chop**, a screen capture and annotation tool for macOS and
 Windows. Capture a region or a window with one click, mark it up, and get it
 into the clipboard or a folder.
